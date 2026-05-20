@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "PE5JW",
   "description": "Live day/night terminator and grayline map for HF propagation planning. Renders a Mercator world map with solar position, civil twilight shading and the grayline highlighted in gold. Optionally sets the Zeus spectrum background to the current grayline image. All rendering is done client-side in canvas — no external network requests.",
-  "homepage": "https://github.com/PE5JW/zeus-grayline-plugin",
+  "homepage": "https://github.com/pe5jw/grayline",
   "license": "GPL-2.0-or-later",
   "sdk": {
     "abi": 1,
